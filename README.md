@@ -25,5 +25,4 @@ A simple and responsive **Tic Tac Toe (X-O)** game built with **HTML**, **CSS**,
 
 ---
 
-## 🧱 File Structure
 
